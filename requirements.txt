@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+rasterio
+geopandas
+matplotlib
+seaborn
+libpysal
+esda
+pyyaml
+joblib

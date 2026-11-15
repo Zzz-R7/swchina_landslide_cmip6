@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+authors:
+  - family-names: "Zheng"
+    given-names: "Runxin"
+  - family-names: "Ni"
+    given-names: "Xiaoyong"
+title: "Code for Decoding Future Landslide Risk in Southwest China"
+version: 1.0.0
+date-released: 2026-11-15

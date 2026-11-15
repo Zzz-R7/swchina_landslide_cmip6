@@ -1,0 +1,22 @@
+random_seed: 42
+gcm_models:
+  - "ACCESS-CM2"
+  - "NorESM2-LM"
+  - "EC-Earth3-Veg"
+  - "INM-CM4-8"
+  - "KACE-1-0-G"
+ssp_scenarios:
+  - "SSP1-2.6"
+  - "SSP2-4.5"
+  - "SSP5-8.5"
+periods:
+  - "T1"
+  - "T2"
+  - "T3"
+  - "T4"
+
+probability_thresholds:
+  very_low: 0.1
+  low: 0.3
+  moderate: 0.5
+  high: 0.7

@@ -1,0 +1,15 @@
+name: landslide_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - shap
+  - rasterio
+  - geopandas
+  - matplotlib
+  - libpysal
+  - esda
